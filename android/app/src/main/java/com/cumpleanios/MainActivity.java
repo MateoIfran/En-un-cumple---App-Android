@@ -1,4 +1,4 @@
-package com.cumpleanios;
+package com.mateoifran.enuncumple;
 
 import com.facebook.react.ReactActivity;
 
